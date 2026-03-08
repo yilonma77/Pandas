@@ -1,0 +1,12 @@
+streamlit>=1.35
+pandas>=1.5
+numpy
+yfinance>=0.2
+matplotlib
+plotly>=5.0
+scipy
+scikit-learn
+statsmodels
+tqdm
+openpyxl
+xgboost
