@@ -1,0 +1,1 @@
+([('app', '/Users/grtk/Documents/GitHub/Pandas/dist/app', 'EXECUTABLE')],)

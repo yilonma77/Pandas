@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+!EoD/EoD_recap.ipynb
+
+# Data files
+*.json
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (ne jamais committer)
+.streamlit/secrets.toml
